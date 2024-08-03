@@ -1,0 +1,8 @@
+---
+name: TestPlugin
+main: venndev\testplugin\Main
+version: 1.0
+api: 5.0.0
+author: VennDev
+description: TestPlugin is a plugin for PocketMine-MP
+...
